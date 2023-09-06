@@ -2,5 +2,12 @@ node_modules
 ./ligma.config.js
 dist
 stats.json
-
+scripts
+.jest.config.jsonjest.config.ts
+ligma.config.js
+package-lock.json
+package.json
+prettier.config.js
+tsconfig.json
+yarn.lock
 
