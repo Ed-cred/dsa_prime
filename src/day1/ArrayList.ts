@@ -7,7 +7,10 @@ export default class ArrayList<T> {
     }
 
     prepend(item: T): void {
+<<<<<<< HEAD
 
+=======
+>>>>>>> ebb855c8d149d1970e0aae70d7d7b741bb6b46d8
 }
     insertAt(item: T, idx: number): void {
 

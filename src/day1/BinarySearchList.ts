@@ -1,4 +1,5 @@
 export default function bs_list(haystack: number[], needle: number): boolean {
+<<<<<<< HEAD
     let lo = 0;
     let hi = haystack.length;
     do {
@@ -15,3 +16,7 @@ export default function bs_list(haystack: number[], needle: number): boolean {
     } while (lo < hi);
     return false;
 }
+=======
+
+}
+>>>>>>> ebb855c8d149d1970e0aae70d7d7b741bb6b46d8
