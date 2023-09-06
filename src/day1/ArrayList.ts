@@ -7,7 +7,6 @@ export default class ArrayList<T> {
     }
 
     prepend(item: T): void {
-        tHIS CANNOT BE PUSHED 
 }
     insertAt(item: T, idx: number): void {
 
