@@ -1,5 +1,4 @@
 export default function two_crystal_balls(breaks: boolean[]): number {
-<<<<<<< HEAD
     const jumpAmount = Math.floor(Math.sqrt(breaks.length));
     let i = jumpAmount;
     for(;i < breaks.length; i+=jumpAmount){
@@ -14,7 +13,5 @@ export default function two_crystal_balls(breaks: boolean[]): number {
         }
     }
     return -1;
-=======
->>>>>>> ebb855c8d149d1970e0aae70d7d7b741bb6b46d8
 
 }

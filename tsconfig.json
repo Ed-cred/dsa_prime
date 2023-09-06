@@ -12,11 +12,7 @@
         "baseUrl": "src",
         "paths": {
             "@code/*": [
-<<<<<<< HEAD
                 "day1/*"
-=======
-                "day2/*"
->>>>>>> ebb855c8d149d1970e0aae70d7d7b741bb6b46d8
             ]
         }
     },
