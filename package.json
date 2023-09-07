@@ -18,11 +18,7 @@
         "clear": "node ./scripts/clear.js",
         "prettier": "prettier --write ./src",
         "generate": "node ./scripts/generate.js",
-<<<<<<< HEAD
         "day": "echo src\\day1"
-=======
-        "day": "echo src\\day2"
->>>>>>> ebb855c8d149d1970e0aae70d7d7b741bb6b46d8
     },
     "devDependencies": {
         "@swc-node/register": "^1.6.7"

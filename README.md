@@ -1,1 +1,1 @@
-#Follwing the Frontend Masters course by ThePrimeagen
+# Follwing the Frontend Masters course by ThePrimeagen
