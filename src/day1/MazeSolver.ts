@@ -21,7 +21,6 @@ function walk(
     ) {
         return false;
     }
-    //2: case on a wall
     if (maze[curr.y][curr.x] === wall) {
         return false;
     }
